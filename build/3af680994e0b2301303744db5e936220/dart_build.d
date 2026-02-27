@@ -1,0 +1,1 @@
+ C:\\Users\\pc\\Desktop\\advicely\\build\\3af680994e0b2301303744db5e936220\\dart_build_result.json:  C:\\Users\\pc\\Desktop\\advicely\\.dart_tool\\package_config.json C:\\Users\\pc\\Desktop\\advicely\\pubspec.yaml C:\\Users\\pc\\local\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\pc\\desktop\\advicely\\.dart_tool\\package_config.json
